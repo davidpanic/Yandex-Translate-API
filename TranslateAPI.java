@@ -10,7 +10,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class TranslateAPI {
-	public static final String API_KEY = "trnsl.1.1.20160519T205919Z.27fcb1664d8a877c.bed5f074733c3aeeb50763e288a46dce621a4b19";
+	public static final String API_KEY = "Paste your yandex api key here";
 	
 	private static String request(String URL) throws IOException {
 		URL url = new URL(URL);
